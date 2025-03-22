@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "8d07c6f96df01833c28ebdd6becec515",
+const RESOURCES = {"flutter_bootstrap.js": "570f7424da4cbac93b7d3dbdfe21b74d",
 "version.json": "404ac7ee9da5da8572940346f863bd6d",
-"index.html": "07a4417ea0f8cd1130a68e2b9134b7ab",
-"/": "07a4417ea0f8cd1130a68e2b9134b7ab",
+"index.html": "5e80e488a87bc498d895ac2739f40ea5",
+"/": "5e80e488a87bc498d895ac2739f40ea5",
 "main.dart.js": "e8be4832a93859f5d4ad641456b14d1b",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "4a5f397e8ae1a2bce4592972b26a883f",
+"icons/zawajcards/favicon.webp": "370384e7bc3f67df584ea7c744e483ae",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
